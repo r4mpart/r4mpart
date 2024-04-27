@@ -10,7 +10,7 @@ I'm not just another coder; I'm a digital detective, a guardian of the virtual r
 
 ### 💼 LinkedIn
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/steven-juve-suryanata-b5110921a/)) for more insights, discussions, and collaboration opportunities.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/steven-juve-suryanata-b5110921a/)) for more insights, discussions, and collaboration opportunities.
 
 ## 🚀 What to Expect?
 
@@ -27,7 +27,7 @@ Exciting projects and tools are in the pipeline, waiting to be unleashed into th
 
 ## 📧 Contact Me
 
-Questions? Suggestions? Let's chat! Shoot me an email at [your@email.com](stevenjuvesuryanata@gmail.com).
+Questions? Suggestions? Let's chat! Shoot me an email at [stevenjuvesuryanata@gmail.com](stevenjuvesuryanata@gmail.com).
 
 Together, let's make cyberspace a safer place, one line of code at a time. Ready to embark on this thrilling adventure?
 
