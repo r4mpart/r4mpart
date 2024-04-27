@@ -1,8 +1,8 @@
-# ![CyberSleuth](https://github.com/yourusername/CyberSleuth) 👨‍💻🔒
+# ![r4mpart's bakery](https://github.com/r4mpart) 👨‍💻🔒
 
 ### *Unraveling the Digital Mysteries, One Byte at a Time.*
 
-Welcome to CyberSleuth - your go-to hub for all things cybersecurity! Dive into a realm where every line of code tells a story, and every vulnerability is a clue waiting to be uncovered.
+Welcome to r4mpart's bakery - I am here as a cybersecurity enthusiast, trying to learn all of the things this field has to offer, absorb them into my brain.
 
 ## 🛡️ Who Am I?
 
@@ -10,7 +10,7 @@ I'm not just another coder; I'm a digital detective, a guardian of the virtual r
 
 ### 💼 LinkedIn
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) for more insights, discussions, and collaboration opportunities.
+Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/steven-juve-suryanata-b5110921a/)) for more insights, discussions, and collaboration opportunities.
 
 ## 🚀 What to Expect?
 
@@ -27,8 +27,8 @@ Exciting projects and tools are in the pipeline, waiting to be unleashed into th
 
 ## 📧 Contact Me
 
-Questions? Suggestions? Let's chat! Shoot me an email at [your@email.com](mailto:your@email.com).
+Questions? Suggestions? Let's chat! Shoot me an email at [your@email.com](stevenjuvesuryanata@gmail.com).
 
 Together, let's make cyberspace a safer place, one line of code at a time. Ready to embark on this thrilling adventure?
 
-### 🛡️🔍 Happy Sleuthing!
+### 🛡️🔍 Happy Hacking!
